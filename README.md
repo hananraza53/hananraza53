@@ -1,125 +1,354 @@
 <div align="center">
 
 # 👋 Hey, I'm Hanan Raza
-### 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🚀 Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanan--dev.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://hanan-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Hanan_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hanan-raza)
-[![GitHub](https://img.shields.io/badge/GitHub-hananraza53-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hananraza53)
+### 💻 Full-Stack Developer  •  🤖 AI Enthusiast  •  🚀 Builder
 
-<p align="center">
-  <em>I’m a Full-Stack Developer who enjoys turning ideas into real-world web applications. My core focus is C#, ASP.NET Core, SQL Server, JavaScript, PHP, and modern frontend development.</em>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Hanan%20Dev-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hanan-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-hananraza53-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hananraza53)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hanan%20Raza-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-hanan-raza)
+
+<br>
+
+<p>
+  <em>
+    I’m a Full-Stack Developer who enjoys turning ideas into real-world applications.
+    My core focus is C#, ASP.NET Core, SQL Server, JavaScript, PHP, and modern frontend development.
+  </em>
 </p>
-<p align="center">
-  <em>I build everything from database-driven applications and REST APIs to e-commerce platforms, authentication systems, admin dashboards, and responsive user interfaces. I’m also expanding my knowledge of React, Node.js, Express.js, and AI-powered development.</em>
+
+<p>
+  <em>
+    I build database-driven applications, REST APIs, e-commerce platforms,
+    authentication systems, admin dashboards, and responsive user interfaces.
+    I'm also expanding into React, Node.js, Express.js, and AI-powered development.
+  </em>
 </p>
 
-> *"Great software starts with an idea — great developers turn that idea into something real."*
+<br>
+
+> <i>“Great software starts with an idea — great developers turn that idea into something real.”</i>
 
 </div>
 
 ---
 
 ## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hannan.raza.dev) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hanan-raza) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@undeadking200) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hannanraza53@gmail.com)
+
+<p align="left">
+
+<a href="https://www.facebook.com/hannan.raza.dev">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-hanan-raza">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@undeadking200">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:hannanraza53@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<!-- Add your Discord invite here -->
+
+<!--
+<a href="https://discord.gg/YOUR_INVITE">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+-->
+
+</p>
 
 ---
 
-## 🧠 What I Work With
+# 🧠 Tech Stack
 
 ### 👨‍💻 Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### ⚙️ Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🗄️ Databases & Tools
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
----
+### 🗄️ Databases
 
-## 🚀 Featured Projects
+<p>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🚗 Mufaddal Auto** | Premium automotive electronics e-commerce & installation platform | `ASP.NET Core` • `SQL Server` • `EF Core` • `Tailwind` |
-| **🌍 E-World** | Full-stack e-commerce application with authentication and cloud image management | `ASP.NET Core` • `EF Core` • `SQL Server` • `Cloudinary` |
-| **🤝 GiveAid** | Donation & NGO management platform | `ASP.NET Core` • `SQL Server` • `EF Core` |
-| **👟 Sneaker World** | Modern sneaker-focused e-commerce experience | `HTML` • `CSS` • `JavaScript` |
+### 🛠️ Tools, APIs & Platforms
 
----
-
-## 📚 Skill Proficiency & Learning Focus
-
-* **ASP.NET Core & C#** — *Advanced (Core Stack)*
-* **SQL Server & Database Architecture** — *Strong*
-* **JavaScript & Frontend Styling** — *Strong*
-* **PHP & Backend Logic** — *Strong*
-* **React.js & Node.js** — *Active Learning / Exploring*
-* **AI-Assisted Development** — *Exploring & Integrating*
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
 
 ---
 
-## 💡 Developer Mindset
-> **Learn** ➔ **Build** ➔ **Break** ➔ **Improve** ➔ **Repeat**
+# 🚀 Featured Projects
 
-I believe the best way to learn development is to build real things. Every project is an opportunity to learn something new, solve a problem, and improve the way I write software.
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Mufaddal Auto
+
+Premium automotive electronics e-commerce and installation platform.
+
+**Stack:**
+`ASP.NET Core` `EF Core` `SQL Server` `Tailwind CSS`
+
+</td>
+
+<td width="50%">
+
+### 🌍 E-World
+
+Full-stack e-commerce application with authentication, database integration and cloud image management.
+
+**Stack:**
+`ASP.NET Core` `EF Core` `SQL Server` `Cloudinary`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤝 GiveAid
+
+Donation and NGO management platform with causes, donations, NGOs and content management.
+
+**Stack:**
+`ASP.NET Core` `SQL Server` `EF Core`
+
+</td>
+
+<td width="50%">
+
+### 👟 Sneaker World
+
+Modern sneaker-focused e-commerce experience with a responsive interface.
+
+**Stack:**
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Beyond The Code
-* 💻 Building full-stack web applications
-* 🤖 Exploring AI & AI-assisted development workflows
-* 🎨 Designing clean, modern user interfaces
-* 🧩 Solving complex backend problems
-* 🚀 Turning concepts into live production software
+# 📚 Skill Proficiency
+
+<table>
+<tr>
+<td><b>C# / ASP.NET Core</b></td>
+<td>
+
+████████████████████ <b>90%</b>
+
+</td>
+</tr>
+
+<tr>
+<td><b>SQL / SQL Server</b></td>
+<td>
+
+██████████████████░░ <b>85%</b>
+
+</td>
+</tr>
+
+<tr>
+<td><b>JavaScript</b></td>
+<td>
+
+█████████████████░░░ <b>80%</b>
+
+</td>
+</tr>
+
+<tr>
+<td><b>PHP</b></td>
+<td>
+
+████████████████░░░░ <b>75%</b>
+
+</td>
+</tr>
+
+<tr>
+<td><b>HTML / CSS</b></td>
+<td>
+
+███████████████████░ <b>90%</b>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tailwind / Bootstrap</b></td>
+<td>
+
+█████████████████░░░ <b>80%</b>
+
+</td>
+</tr>
+
+<tr>
+<td><b>React.js</b></td>
+<td>
+
+███████████░░░░░░░░░ <b>55%</b>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Node.js / Express</b></td>
+<td>
+
+███████████░░░░░░░░░ <b>55%</b>
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI Development</b></td>
+<td>
+
+█████████████░░░░░░░ <b>65%</b>
+
+</td>
+</tr>
+
+</table>
+
+> **Note:** These percentages represent my personal learning/proficiency estimates, not automated GitHub measurements.
 
 ---
 
-## 📊 GitHub Analytics & Trophies
+# 📈 Currently Exploring
+
+| Technology               | Focus                                           |
+| ------------------------ | ----------------------------------------------- |
+| ⚛️ **React.js**          | Component-based frontend development            |
+| 🟢 **Node.js / Express** | Backend APIs & JavaScript development           |
+| 🤖 **AI Development**    | AI-assisted workflows & AI-powered applications |
+| ☁️ **Modern Deployment** | Hosting, APIs & production workflows            |
+
+---
+
+# 💡 Developer Mindset
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.shion.dev/api?username=hananraza53&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=hananraza53&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hananraza53&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  </p>
+
+### **Learn → Build → Break → Improve → Repeat**
+
 </div>
 
-### 🏆 GitHub Trophies
+I believe the best way to learn software development is to **build real things**.
+
+Every project is an opportunity to learn something new, solve a problem, experiment with technology, and become a better developer.
+
+---
+
+# ✨ Beyond The Code
+
+* 💻 Building real-world web applications
+* 🤖 Exploring AI and AI-assisted development
+* 🎨 Designing modern interfaces
+* 🧩 Solving technical problems
+* 📚 Learning new technologies
+* 🚀 Turning ideas into working products
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hananraza53&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=hananraza53&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananraza53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=hananraza53&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hananraza53&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hananraza53&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hananraza53/hananraza53/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
 </div>
 
 ---
 
 <div align="center">
-  
-⚡ **Build. Learn. Create. Repeat.**  
-*Thanks for visiting my profile!*
+
+### ⚡ Build. Learn. Create. Repeat.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=hananraza53&color=00c7b7&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hananraza53&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+<i>Thanks for visiting my profile! 🚀</i>
 
 </div>
