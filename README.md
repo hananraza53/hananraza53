@@ -53,14 +53,6 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!-- Add your Discord invite here -->
-
-<!--
-<a href="https://discord.gg/YOUR_INVITE">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
--->
-
 </p>
 
 ---
@@ -172,85 +164,48 @@ Modern sneaker-focused e-commerce experience with a responsive interface.
 <table>
 <tr>
 <td><b>C# / ASP.NET Core</b></td>
-<td>
-
-████████████████████ <b>90%</b>
-
-</td>
+<td>██████████████████░░ <b>90%</b></td>
 </tr>
 
 <tr>
 <td><b>SQL / SQL Server</b></td>
-<td>
-
-██████████████████░░ <b>85%</b>
-
-</td>
+<td>█████████████████░░░ <b>85%</b></td>
 </tr>
 
 <tr>
 <td><b>JavaScript</b></td>
-<td>
-
-█████████████████░░░ <b>80%</b>
-
-</td>
+<td>████████████████░░░░ <b>80%</b></td>
 </tr>
 
 <tr>
 <td><b>PHP</b></td>
-<td>
-
-████████████████░░░░ <b>75%</b>
-
-</td>
+<td>███████████████░░░░░ <b>75%</b></td>
 </tr>
 
 <tr>
 <td><b>HTML / CSS</b></td>
-<td>
-
-███████████████████░ <b>90%</b>
-
-</td>
+<td>██████████████████░░ <b>90%</b></td>
 </tr>
 
 <tr>
 <td><b>Tailwind / Bootstrap</b></td>
-<td>
-
-█████████████████░░░ <b>80%</b>
-
-</td>
+<td>████████████████░░░░ <b>80%</b></td>
 </tr>
 
 <tr>
 <td><b>React.js</b></td>
-<td>
-
-███████████░░░░░░░░░ <b>55%</b>
-
-</td>
+<td>███████████░░░░░░░░░ <b>55%</b></td>
 </tr>
 
 <tr>
 <td><b>Node.js / Express</b></td>
-<td>
-
-███████████░░░░░░░░░ <b>55%</b>
-
-</td>
+<td>███████████░░░░░░░░░ <b>55%</b></td>
 </tr>
 
 <tr>
 <td><b>AI Development</b></td>
-<td>
-
-█████████████░░░░░░░ <b>65%</b>
-
-</td>
+<td>█████████████░░░░░░░ <b>65%</b></td>
 </tr>
-
 </table>
 
 > **Note:** These percentages represent my personal learning/proficiency estimates, not automated GitHub measurements.
@@ -293,47 +248,36 @@ Every project is an opportunity to learn something new, solve a problem, experim
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hananraza53&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<a href="https://github.com/hananraza53">
+<img src="https://img.shields.io/badge/GitHub%20Profile-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananraza53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<a href="https://github.com/hananraza53?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+</a>
+
+<a href="https://github.com/hananraza53?tab=followers">
+<img src="https://img.shields.io/github/followers/hananraza53?style=for-the-badge&label=Followers&logo=github" alt="GitHub Followers" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Learn. Create. Repeat.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=hananraza53&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=hananraza53&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<i>Thanks for visiting my profile! 🚀</i>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hananraza53&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hananraza53&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hananraza53/hananraza53/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
