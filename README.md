@@ -295,17 +295,13 @@ Every project is an opportunity to learn something new, solve a problem, experim
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hananraza53&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananraza53&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=hananraza53&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -341,18 +337,3 @@ Every project is an opportunity to learn something new, solve a problem, experim
 
 </div>
 
----
-
-<div align="center">
-
-### ⚡ Build. Learn. Create. Repeat.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=hananraza53&label=Profile%20Views&color=00C7B7&style=for-the-badge" alt="Profile Views" />
-
-<br><br>
-
-<i>Thanks for visiting my profile! 🚀</i>
-
-</div>
