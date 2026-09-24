@@ -65,14 +65,14 @@
 
 ---
 
-## 📚 Skill Proficiency & Learning Curve
+## 📚 Skill Proficiency & Learning Focus
 
-* **Advanced ASP.NET Core & C#** `████████████████████` (Advanced)
-* **SQL / SQL Server & Databases** `██████████████████░░` (Strong)
-* **JavaScript & Modern Web** `█████████████████░░░` (Strong)
-* **PHP & Backend Logic** `████████████████░░░░` (Strong)
-* **React.js & Node.js** `████████████░░░░░░░░` (Exploring)
-* **AI Development Workflows** `█████████████░░░░░░░` (Exploring)
+* **ASP.NET Core & C#** — *Advanced (Core Stack)*
+* **SQL Server & Database Architecture** — *Strong*
+* **JavaScript & Frontend Styling** — *Strong*
+* **PHP & Backend Logic** — *Strong*
+* **React.js & Node.js** — *Active Learning / Exploring*
+* **AI-Assisted Development** — *Exploring & Integrating*
 
 ---
 
@@ -84,26 +84,31 @@ I believe the best way to learn development is to build real things. Every proje
 ---
 
 ## ✨ Beyond The Code
-* 💻 Building web applications
-* 🤖 Exploring AI & AI-assisted development
-* 🎨 Designing modern interfaces
-* 🧩 Solving technical problems
-* 📚 Learning new technologies
-* 🚀 Turning ideas into working projects
+* 💻 Building full-stack web applications
+* 🤖 Exploring AI & AI-assisted development workflows
+* 🎨 Designing clean, modern user interfaces
+* 🧩 Solving complex backend problems
+* 🚀 Turning concepts into live production software
 
 ---
 
 ## 📊 GitHub Analytics & Trophies
 
 <div align="center">
-  <img src="[https://github-readme-stats.shion.dev/api?username=hananraza53&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.shion.dev/api?username=hananraza53&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="GitHub Stats" />
-  <img src="[https://streak-stats.demolab.com/?user=hananraza53&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=hananraza53&theme=dark&hide_border=false)" alt="GitHub Streak" />
-  <img src="[https://github-readme-stats.shion.dev/api/top-langs/?username=hananraza53&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=hananraza53&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" alt="Top Languages" />
+  <p>
+    <img src="https://github-readme-stats.shion.dev/api?username=hananraza53&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=hananraza53&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hananraza53&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </p>
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=hananraza53&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=hananraza53&theme=radical&no-frame=false&no-bg=true&margin-w=4)" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hananraza53&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -115,6 +120,6 @@ I believe the best way to learn development is to build real things. Every proje
 
 <br>
 
-<img src="[https://komarev.com/ghpvc/?username=hananraza53&color=00c7b7&style=flat-square](https://komarev.com/ghpvc/?username=hananraza53&color=00c7b7&style=flat-square)" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hananraza53&color=00c7b7&style=flat-square" alt="Profile Views" />
 
 </div>
